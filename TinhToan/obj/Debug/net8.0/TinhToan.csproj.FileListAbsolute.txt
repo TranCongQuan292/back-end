@@ -1,0 +1,14 @@
+D:\back_end\Lesson01\TinhToan\obj\Debug\net8.0\TinhToan.GeneratedMSBuildEditorConfig.editorconfig
+D:\back_end\Lesson01\TinhToan\obj\Debug\net8.0\TinhToan.AssemblyInfoInputs.cache
+D:\back_end\Lesson01\TinhToan\obj\Debug\net8.0\TinhToan.AssemblyInfo.cs
+D:\back_end\Lesson01\TinhToan\obj\Debug\net8.0\TinhToan.csproj.CoreCompileInputs.cache
+D:\back_end\Lesson01\TinhToan\bin\Debug\net8.0\TinhToan.exe
+D:\back_end\Lesson01\TinhToan\bin\Debug\net8.0\TinhToan.deps.json
+D:\back_end\Lesson01\TinhToan\bin\Debug\net8.0\TinhToan.runtimeconfig.json
+D:\back_end\Lesson01\TinhToan\bin\Debug\net8.0\TinhToan.dll
+D:\back_end\Lesson01\TinhToan\bin\Debug\net8.0\TinhToan.pdb
+D:\back_end\Lesson01\TinhToan\obj\Debug\net8.0\TinhToan.dll
+D:\back_end\Lesson01\TinhToan\obj\Debug\net8.0\refint\TinhToan.dll
+D:\back_end\Lesson01\TinhToan\obj\Debug\net8.0\TinhToan.pdb
+D:\back_end\Lesson01\TinhToan\obj\Debug\net8.0\TinhToan.genruntimeconfig.cache
+D:\back_end\Lesson01\TinhToan\obj\Debug\net8.0\ref\TinhToan.dll

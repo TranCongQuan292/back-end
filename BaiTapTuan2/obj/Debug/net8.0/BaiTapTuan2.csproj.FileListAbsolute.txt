@@ -1,0 +1,14 @@
+D:\back_end\Lesson01\BaiTapTuan2\bin\Debug\net8.0\BaiTapTuan2.exe
+D:\back_end\Lesson01\BaiTapTuan2\bin\Debug\net8.0\BaiTapTuan2.deps.json
+D:\back_end\Lesson01\BaiTapTuan2\bin\Debug\net8.0\BaiTapTuan2.runtimeconfig.json
+D:\back_end\Lesson01\BaiTapTuan2\bin\Debug\net8.0\BaiTapTuan2.dll
+D:\back_end\Lesson01\BaiTapTuan2\bin\Debug\net8.0\BaiTapTuan2.pdb
+D:\back_end\Lesson01\BaiTapTuan2\obj\Debug\net8.0\BaiTapTuan2.GeneratedMSBuildEditorConfig.editorconfig
+D:\back_end\Lesson01\BaiTapTuan2\obj\Debug\net8.0\BaiTapTuan2.AssemblyInfoInputs.cache
+D:\back_end\Lesson01\BaiTapTuan2\obj\Debug\net8.0\BaiTapTuan2.AssemblyInfo.cs
+D:\back_end\Lesson01\BaiTapTuan2\obj\Debug\net8.0\BaiTapTuan2.csproj.CoreCompileInputs.cache
+D:\back_end\Lesson01\BaiTapTuan2\obj\Debug\net8.0\BaiTapTuan2.dll
+D:\back_end\Lesson01\BaiTapTuan2\obj\Debug\net8.0\refint\BaiTapTuan2.dll
+D:\back_end\Lesson01\BaiTapTuan2\obj\Debug\net8.0\BaiTapTuan2.pdb
+D:\back_end\Lesson01\BaiTapTuan2\obj\Debug\net8.0\BaiTapTuan2.genruntimeconfig.cache
+D:\back_end\Lesson01\BaiTapTuan2\obj\Debug\net8.0\ref\BaiTapTuan2.dll
